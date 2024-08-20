@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Biography"
-permalink: /home/
+permalink: /
 author_profile: true
 ---
 

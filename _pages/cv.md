@@ -46,30 +46,26 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * MATLAB, Julia, Python, C/C++, Java, JavaScript, SQL, Shell Script, Git/GitHub
+* Machine Learning and Deep Learning
+  * PyTorch, TensorFlow, Keras, Scikit-learn
+* High Perforrmance Computing
+  * CUDA, MPI, OpenMP, Apache Spark, Dask, LLVM, Valgrind, Unix/Linux
+* Language
+  * English, Chinese (Mandarin)
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul> -->
-  
+  {% endfor %}</ul>  
+
 Teaching
 ======
-  <!-- <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+* TA for the graduate course: CE549 Computational Watershed Hydrology, Purdue University, 2022 Spring
+* TA for the undergraduate course: CE 340 Hydraulics, Purdue University, 2022 Fall
+* TA for the undergraduate course: CE 340 Hydraulics, Purdue University, 2023 Spring
   
 Service and leadership
 ======
@@ -81,4 +77,3 @@ Service and leadership
   * National Taiwan University, Taiwan
 * 2009: Director of Debating Club
   * Cheng Gong senior high school, Taiwan
-
