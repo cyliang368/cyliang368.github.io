@@ -9,10 +9,10 @@ I'm a Ph.D. candidate in Civil Engineering at Purdue University. I am also study
 
 Interests
 ======
-* High-performance computing and parallel computing (OpenMP, MPI, CUDA, etc.)
-* Deep learning and Machine learning
-* Geospatial data science
-* Flood modeling
+* [High-performance computing and parallel computing (OpenMP, MPI, CUDA, etc.)](/portfolio/portfolio-1-parallel/)
+* [Deep learning and Machine learning](/portfolio/portfolio-2-dl/)
+* [Geospatial data science](/portfolio/portfolio-3-packages/)
+* [Flood modeling](/publications)
 
 Education
 ======
